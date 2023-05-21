@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuCiclos\bin\Debug\Programa_MenuCiclos.exe.config
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuCiclos\bin\Debug\Programa_MenuCiclos.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuCiclos\bin\Debug\Programa_MenuCiclos.pdb
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuCiclos\obj\Debug\Programa_MenuCiclos.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuCiclos\obj\Debug\Programa_MenuCiclos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuCiclos\obj\Debug\Programa_MenuCiclos.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuCiclos\obj\Debug\Programa_MenuCiclos.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuCiclos\obj\Debug\Programa_MenuCiclos.pdb

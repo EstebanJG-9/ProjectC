@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ciclos_repetitivos_for\Actividad_Tarea_do-while\obj\Debug\Actividad_Tarea_do-while.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ciclos_repetitivos_for\Actividad_Tarea_do-while\obj\Debug\Actividad_Tarea_do-while.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ciclos_repetitivos_for\Actividad_Tarea_do-while\obj\Debug\Actividad_Tarea_do-while.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ciclos_repetitivos_for\Actividad_Tarea_do-while\bin\Debug\Actividad_Tarea_do-while.exe.config
+C:\Users\Juan3\source\repos\Ciclos_repetitivos_for\Actividad_Tarea_do-while\bin\Debug\Actividad_Tarea_do-while.exe
+C:\Users\Juan3\source\repos\Ciclos_repetitivos_for\Actividad_Tarea_do-while\bin\Debug\Actividad_Tarea_do-while.pdb
+C:\Users\Juan3\source\repos\Ciclos_repetitivos_for\Actividad_Tarea_do-while\obj\Debug\Actividad_Tarea_do-while.exe
+C:\Users\Juan3\source\repos\Ciclos_repetitivos_for\Actividad_Tarea_do-while\obj\Debug\Actividad_Tarea_do-while.pdb

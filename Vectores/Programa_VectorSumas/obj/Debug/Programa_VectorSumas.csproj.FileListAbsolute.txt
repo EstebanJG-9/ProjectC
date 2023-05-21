@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorSumas\bin\Debug\Programa_VectorSumas.exe.config
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorSumas\bin\Debug\Programa_VectorSumas.exe
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorSumas\bin\Debug\Programa_VectorSumas.pdb
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorSumas\obj\Debug\Programa_VectorSumas.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorSumas\obj\Debug\Programa_VectorSumas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorSumas\obj\Debug\Programa_VectorSumas.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorSumas\obj\Debug\Programa_VectorSumas.exe
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorSumas\obj\Debug\Programa_VectorSumas.pdb

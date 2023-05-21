@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_Calcular20Edades\obj\Debug\Programa_Calcular20Edades.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_Calcular20Edades\obj\Debug\Programa_Calcular20Edades.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_Calcular20Edades\obj\Debug\Programa_Calcular20Edades.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_Calcular20Edades\bin\Debug\Programa_Calcular20Edades.exe.config
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_Calcular20Edades\bin\Debug\Programa_Calcular20Edades.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_Calcular20Edades\bin\Debug\Programa_Calcular20Edades.pdb
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_Calcular20Edades\obj\Debug\Programa_Calcular20Edades.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_Calcular20Edades\obj\Debug\Programa_Calcular20Edades.pdb

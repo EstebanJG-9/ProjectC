@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Ciclo_RepetitivoDo\bin\Debug\Ciclo_RepetitivoDo.exe.config
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Ciclo_RepetitivoDo\bin\Debug\Ciclo_RepetitivoDo.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Ciclo_RepetitivoDo\bin\Debug\Ciclo_RepetitivoDo.pdb
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Ciclo_RepetitivoDo\obj\Debug\Ciclo_RepetitivoDo.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Ciclo_RepetitivoDo\obj\Debug\Ciclo_RepetitivoDo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Ciclo_RepetitivoDo\obj\Debug\Ciclo_RepetitivoDo.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Ciclo_RepetitivoDo\obj\Debug\Ciclo_RepetitivoDo.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Ciclo_RepetitivoDo\obj\Debug\Ciclo_RepetitivoDo.pdb

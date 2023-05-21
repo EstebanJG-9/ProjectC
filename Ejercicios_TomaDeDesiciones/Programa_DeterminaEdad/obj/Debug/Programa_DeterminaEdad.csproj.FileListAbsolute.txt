@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_DeterminaEdad\bin\Debug\Programa_DeterminaEdad.exe.config
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_DeterminaEdad\bin\Debug\Programa_DeterminaEdad.exe
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_DeterminaEdad\bin\Debug\Programa_DeterminaEdad.pdb
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_DeterminaEdad\obj\Debug\Programa_DeterminaEdad.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_DeterminaEdad\obj\Debug\Programa_DeterminaEdad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_DeterminaEdad\obj\Debug\Programa_DeterminaEdad.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_DeterminaEdad\obj\Debug\Programa_DeterminaEdad.exe
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_DeterminaEdad\obj\Debug\Programa_DeterminaEdad.pdb

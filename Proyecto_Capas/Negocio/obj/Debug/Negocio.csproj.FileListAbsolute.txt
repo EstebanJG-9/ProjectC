@@ -1,0 +1,9 @@
+C:\Users\Juan3\source\repos\Proyecto_Capas\Negocio\bin\Debug\Negocio.dll
+C:\Users\Juan3\source\repos\Proyecto_Capas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Juan3\source\repos\Proyecto_Capas\Negocio\bin\Debug\Datos.dll
+C:\Users\Juan3\source\repos\Proyecto_Capas\Negocio\bin\Debug\Datos.pdb
+C:\Users\Juan3\source\repos\Proyecto_Capas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Proyecto_Capas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Proyecto_Capas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Juan3\source\repos\Proyecto_Capas\Negocio\obj\Debug\Negocio.dll
+C:\Users\Juan3\source\repos\Proyecto_Capas\Negocio\obj\Debug\Negocio.pdb

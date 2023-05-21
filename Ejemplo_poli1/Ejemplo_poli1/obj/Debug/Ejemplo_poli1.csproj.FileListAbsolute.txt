@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ejemplo_poli1\Ejemplo_poli1\bin\Debug\Ejemplo_poli1.exe.config
+C:\Users\Juan3\source\repos\Ejemplo_poli1\Ejemplo_poli1\bin\Debug\Ejemplo_poli1.exe
+C:\Users\Juan3\source\repos\Ejemplo_poli1\Ejemplo_poli1\bin\Debug\Ejemplo_poli1.pdb
+C:\Users\Juan3\source\repos\Ejemplo_poli1\Ejemplo_poli1\obj\Debug\Ejemplo_poli1.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ejemplo_poli1\Ejemplo_poli1\obj\Debug\Ejemplo_poli1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ejemplo_poli1\Ejemplo_poli1\obj\Debug\Ejemplo_poli1.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ejemplo_poli1\Ejemplo_poli1\obj\Debug\Ejemplo_poli1.exe
+C:\Users\Juan3\source\repos\Ejemplo_poli1\Ejemplo_poli1\obj\Debug\Ejemplo_poli1.pdb

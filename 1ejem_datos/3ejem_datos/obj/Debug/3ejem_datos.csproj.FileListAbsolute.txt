@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\1ejem_datos\3ejem_datos\bin\Debug\3ejem_datos.exe.config
+C:\Users\Juan3\source\repos\1ejem_datos\3ejem_datos\bin\Debug\3ejem_datos.exe
+C:\Users\Juan3\source\repos\1ejem_datos\3ejem_datos\bin\Debug\3ejem_datos.pdb
+C:\Users\Juan3\source\repos\1ejem_datos\3ejem_datos\obj\Debug\3ejem_datos.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\1ejem_datos\3ejem_datos\obj\Debug\3ejem_datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\1ejem_datos\3ejem_datos\obj\Debug\3ejem_datos.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\1ejem_datos\3ejem_datos\obj\Debug\3ejem_datos.exe
+C:\Users\Juan3\source\repos\1ejem_datos\3ejem_datos\obj\Debug\3ejem_datos.pdb

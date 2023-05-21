@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuParImpar\bin\Debug\Programa_MenuParImpar.exe.config
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuParImpar\bin\Debug\Programa_MenuParImpar.exe
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuParImpar\bin\Debug\Programa_MenuParImpar.pdb
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuParImpar\obj\Debug\Programa_MenuParImpar.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuParImpar\obj\Debug\Programa_MenuParImpar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuParImpar\obj\Debug\Programa_MenuParImpar.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuParImpar\obj\Debug\Programa_MenuParImpar.exe
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuParImpar\obj\Debug\Programa_MenuParImpar.pdb

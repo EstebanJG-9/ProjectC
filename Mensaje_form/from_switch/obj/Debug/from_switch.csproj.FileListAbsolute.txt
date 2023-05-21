@@ -1,0 +1,11 @@
+C:\Users\Juan3\source\repos\Mensaje_form\from_switch\bin\Debug\from_switch.exe.config
+C:\Users\Juan3\source\repos\Mensaje_form\from_switch\bin\Debug\from_switch.exe
+C:\Users\Juan3\source\repos\Mensaje_form\from_switch\bin\Debug\from_switch.pdb
+C:\Users\Juan3\source\repos\Mensaje_form\from_switch\obj\Debug\from_switch.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Mensaje_form\from_switch\obj\Debug\from_switch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Mensaje_form\from_switch\obj\Debug\from_switch.Form1.resources
+C:\Users\Juan3\source\repos\Mensaje_form\from_switch\obj\Debug\from_switch.Properties.Resources.resources
+C:\Users\Juan3\source\repos\Mensaje_form\from_switch\obj\Debug\from_switch.csproj.GenerateResource.cache
+C:\Users\Juan3\source\repos\Mensaje_form\from_switch\obj\Debug\from_switch.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Mensaje_form\from_switch\obj\Debug\from_switch.exe
+C:\Users\Juan3\source\repos\Mensaje_form\from_switch\obj\Debug\from_switch.pdb

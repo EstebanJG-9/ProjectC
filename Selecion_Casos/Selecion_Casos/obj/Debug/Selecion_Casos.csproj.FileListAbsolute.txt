@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Selecion_Casos\Selecion_Casos\bin\Debug\Selecion_Casos.exe.config
+C:\Users\Juan3\source\repos\Selecion_Casos\Selecion_Casos\bin\Debug\Selecion_Casos.exe
+C:\Users\Juan3\source\repos\Selecion_Casos\Selecion_Casos\bin\Debug\Selecion_Casos.pdb
+C:\Users\Juan3\source\repos\Selecion_Casos\Selecion_Casos\obj\Debug\Selecion_Casos.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Selecion_Casos\obj\Debug\Selecion_Casos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Selecion_Casos\obj\Debug\Selecion_Casos.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Selecion_Casos\obj\Debug\Selecion_Casos.exe
+C:\Users\Juan3\source\repos\Selecion_Casos\Selecion_Casos\obj\Debug\Selecion_Casos.pdb

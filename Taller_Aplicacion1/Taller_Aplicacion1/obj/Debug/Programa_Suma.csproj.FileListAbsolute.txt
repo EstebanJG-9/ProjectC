@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Taller_Aplicacion1\obj\Debug\Programa_Suma.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Taller_Aplicacion1\obj\Debug\Programa_Suma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Taller_Aplicacion1\obj\Debug\Programa_Suma.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Taller_Aplicacion1\bin\Debug\Taller_Aplicacion1.exe.config
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Taller_Aplicacion1\bin\Debug\Taller_Aplicacion1.exe
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Taller_Aplicacion1\bin\Debug\Taller_Aplicacion1.pdb
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Taller_Aplicacion1\obj\Debug\Taller_Aplicacion1.exe
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Taller_Aplicacion1\obj\Debug\Taller_Aplicacion1.pdb

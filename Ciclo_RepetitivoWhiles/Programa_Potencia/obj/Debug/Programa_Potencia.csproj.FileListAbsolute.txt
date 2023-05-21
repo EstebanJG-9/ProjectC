@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_Potencia\bin\Debug\Programa_Potencia.exe.config
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_Potencia\bin\Debug\Programa_Potencia.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_Potencia\bin\Debug\Programa_Potencia.pdb
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_Potencia\obj\Debug\Programa_Potencia.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_Potencia\obj\Debug\Programa_Potencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_Potencia\obj\Debug\Programa_Potencia.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_Potencia\obj\Debug\Programa_Potencia.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_Potencia\obj\Debug\Programa_Potencia.pdb

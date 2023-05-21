@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_HombresMujeres\bin\Debug\Programa_HombresMujeres.exe.config
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_HombresMujeres\bin\Debug\Programa_HombresMujeres.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_HombresMujeres\bin\Debug\Programa_HombresMujeres.pdb
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_HombresMujeres\obj\Debug\Programa_HombresMujeres.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_HombresMujeres\obj\Debug\Programa_HombresMujeres.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_HombresMujeres\obj\Debug\Programa_HombresMujeres.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_HombresMujeres\obj\Debug\Programa_HombresMujeres.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_HombresMujeres\obj\Debug\Programa_HombresMujeres.pdb

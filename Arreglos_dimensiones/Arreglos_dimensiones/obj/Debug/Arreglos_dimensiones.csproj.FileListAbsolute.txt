@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Arreglos_dimensiones\Arreglos_dimensiones\bin\Debug\Arreglos_dimensiones.exe.config
+C:\Users\Juan3\source\repos\Arreglos_dimensiones\Arreglos_dimensiones\bin\Debug\Arreglos_dimensiones.exe
+C:\Users\Juan3\source\repos\Arreglos_dimensiones\Arreglos_dimensiones\bin\Debug\Arreglos_dimensiones.pdb
+C:\Users\Juan3\source\repos\Arreglos_dimensiones\Arreglos_dimensiones\obj\Debug\Arreglos_dimensiones.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Arreglos_dimensiones\Arreglos_dimensiones\obj\Debug\Arreglos_dimensiones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Arreglos_dimensiones\Arreglos_dimensiones\obj\Debug\Arreglos_dimensiones.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Arreglos_dimensiones\Arreglos_dimensiones\obj\Debug\Arreglos_dimensiones.exe
+C:\Users\Juan3\source\repos\Arreglos_dimensiones\Arreglos_dimensiones\obj\Debug\Arreglos_dimensiones.pdb

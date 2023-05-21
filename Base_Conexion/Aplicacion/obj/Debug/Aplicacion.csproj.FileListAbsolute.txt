@@ -1,0 +1,11 @@
+C:\Users\Juan3\source\repos\Base_Conexion\Aplicacion\bin\Debug\Aplicacion.exe.config
+C:\Users\Juan3\source\repos\Base_Conexion\Aplicacion\bin\Debug\Aplicacion.exe
+C:\Users\Juan3\source\repos\Base_Conexion\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\Juan3\source\repos\Base_Conexion\Aplicacion\obj\Debug\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Base_Conexion\Aplicacion\obj\Debug\Aplicacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Base_Conexion\Aplicacion\obj\Debug\Aplicacion.Form1.resources
+C:\Users\Juan3\source\repos\Base_Conexion\Aplicacion\obj\Debug\Aplicacion.Properties.Resources.resources
+C:\Users\Juan3\source\repos\Base_Conexion\Aplicacion\obj\Debug\Aplicacion.csproj.GenerateResource.cache
+C:\Users\Juan3\source\repos\Base_Conexion\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Base_Conexion\Aplicacion\obj\Debug\Aplicacion.exe
+C:\Users\Juan3\source\repos\Base_Conexion\Aplicacion\obj\Debug\Aplicacion.pdb

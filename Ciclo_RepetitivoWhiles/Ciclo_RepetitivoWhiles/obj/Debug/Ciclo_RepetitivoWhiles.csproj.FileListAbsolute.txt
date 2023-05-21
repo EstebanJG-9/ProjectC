@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Ciclo_RepetitivoWhiles\bin\Debug\Ciclo_RepetitivoWhiles.exe.config
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Ciclo_RepetitivoWhiles\bin\Debug\Ciclo_RepetitivoWhiles.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Ciclo_RepetitivoWhiles\bin\Debug\Ciclo_RepetitivoWhiles.pdb
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Ciclo_RepetitivoWhiles\obj\Debug\Ciclo_RepetitivoWhiles.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Ciclo_RepetitivoWhiles\obj\Debug\Ciclo_RepetitivoWhiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Ciclo_RepetitivoWhiles\obj\Debug\Ciclo_RepetitivoWhiles.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Ciclo_RepetitivoWhiles\obj\Debug\Ciclo_RepetitivoWhiles.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Ciclo_RepetitivoWhiles\obj\Debug\Ciclo_RepetitivoWhiles.pdb

@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_N_MayorMenor\bin\Debug\Programa_N_MayorMenor.exe.config
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_N_MayorMenor\bin\Debug\Programa_N_MayorMenor.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_N_MayorMenor\bin\Debug\Programa_N_MayorMenor.pdb
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_N_MayorMenor\obj\Debug\Programa_N_MayorMenor.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_N_MayorMenor\obj\Debug\Programa_N_MayorMenor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_N_MayorMenor\obj\Debug\Programa_N_MayorMenor.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_N_MayorMenor\obj\Debug\Programa_N_MayorMenor.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoWhiles\Programa_N_MayorMenor\obj\Debug\Programa_N_MayorMenor.pdb

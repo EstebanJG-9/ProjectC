@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_MitadNumero\bin\Debug\Programa_MitadNumero.exe.config
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_MitadNumero\bin\Debug\Programa_MitadNumero.exe
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_MitadNumero\bin\Debug\Programa_MitadNumero.pdb
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_MitadNumero\obj\Debug\Programa_MitadNumero.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_MitadNumero\obj\Debug\Programa_MitadNumero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_MitadNumero\obj\Debug\Programa_MitadNumero.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_MitadNumero\obj\Debug\Programa_MitadNumero.exe
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_MitadNumero\obj\Debug\Programa_MitadNumero.pdb

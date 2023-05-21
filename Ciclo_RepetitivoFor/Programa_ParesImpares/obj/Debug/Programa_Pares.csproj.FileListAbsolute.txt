@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_ParesImpares\bin\Debug\Programa_ParesImpares.exe.config
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_ParesImpares\bin\Debug\Programa_ParesImpares.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_ParesImpares\bin\Debug\Programa_ParesImpares.pdb
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_ParesImpares\obj\Debug\Programa_Pares.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_ParesImpares\obj\Debug\Programa_Pares.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_ParesImpares\obj\Debug\Programa_Pares.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_ParesImpares\obj\Debug\Programa_ParesImpares.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_ParesImpares\obj\Debug\Programa_ParesImpares.pdb

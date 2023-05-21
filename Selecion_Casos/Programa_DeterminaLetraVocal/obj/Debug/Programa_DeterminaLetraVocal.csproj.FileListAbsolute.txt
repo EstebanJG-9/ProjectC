@@ -1,0 +1,13 @@
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_DeterminaLetraVocal\bin\Debug\Programa_DeterminaLetraVocal.exe.config
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_DeterminaLetraVocal\bin\Debug\Programa_DeterminaLetraVocal.exe
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_DeterminaLetraVocal\bin\Debug\Programa_DeterminaLetraVocal.pdb
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_DeterminaLetraVocal\bin\Debug\Castle.Core.dll
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_DeterminaLetraVocal\bin\Debug\FakeItEasy.dll
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_DeterminaLetraVocal\bin\Debug\Castle.Core.xml
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_DeterminaLetraVocal\bin\Debug\FakeItEasy.xml
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_DeterminaLetraVocal\obj\Debug\Programa_DeterminaLetraVocal.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_DeterminaLetraVocal\obj\Debug\Programa_DeterminaLetraVocal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_DeterminaLetraVocal\obj\Debug\Programa_DeterminaLetraVocal.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_DeterminaLetraVocal\obj\Debug\Programa_DeterminaLetraVocal.csproj.CopyComplete
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_DeterminaLetraVocal\obj\Debug\Programa_DeterminaLetraVocal.exe
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_DeterminaLetraVocal\obj\Debug\Programa_DeterminaLetraVocal.pdb

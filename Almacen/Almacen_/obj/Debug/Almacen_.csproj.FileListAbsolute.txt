@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Almacen\Almacen_\bin\Debug\Almacen_.exe.config
+C:\Users\Juan3\source\repos\Almacen\Almacen_\bin\Debug\Almacen_.exe
+C:\Users\Juan3\source\repos\Almacen\Almacen_\bin\Debug\Almacen_.pdb
+C:\Users\Juan3\source\repos\Almacen\Almacen_\obj\Debug\Almacen_.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Almacen\Almacen_\obj\Debug\Almacen_.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Almacen\Almacen_\obj\Debug\Almacen_.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Almacen\Almacen_\obj\Debug\Almacen_.exe
+C:\Users\Juan3\source\repos\Almacen\Almacen_\obj\Debug\Almacen_.pdb

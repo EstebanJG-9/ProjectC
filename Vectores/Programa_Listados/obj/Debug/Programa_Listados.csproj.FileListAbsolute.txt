@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Vectores\Programa_Listados\bin\Debug\Programa_Listados.exe.config
+C:\Users\Juan3\source\repos\Vectores\Programa_Listados\bin\Debug\Programa_Listados.exe
+C:\Users\Juan3\source\repos\Vectores\Programa_Listados\bin\Debug\Programa_Listados.pdb
+C:\Users\Juan3\source\repos\Vectores\Programa_Listados\obj\Debug\Programa_Listados.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Vectores\Programa_Listados\obj\Debug\Programa_Listados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Vectores\Programa_Listados\obj\Debug\Programa_Listados.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Vectores\Programa_Listados\obj\Debug\Programa_Listados.exe
+C:\Users\Juan3\source\repos\Vectores\Programa_Listados\obj\Debug\Programa_Listados.pdb

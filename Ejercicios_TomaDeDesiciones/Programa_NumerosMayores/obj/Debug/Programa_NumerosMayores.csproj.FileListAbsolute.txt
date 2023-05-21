@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NumerosMayores\bin\Debug\Programa_NumerosMayores.exe.config
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NumerosMayores\bin\Debug\Programa_NumerosMayores.exe
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NumerosMayores\bin\Debug\Programa_NumerosMayores.pdb
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NumerosMayores\obj\Debug\Programa_NumerosMayores.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NumerosMayores\obj\Debug\Programa_NumerosMayores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NumerosMayores\obj\Debug\Programa_NumerosMayores.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NumerosMayores\obj\Debug\Programa_NumerosMayores.exe
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NumerosMayores\obj\Debug\Programa_NumerosMayores.pdb

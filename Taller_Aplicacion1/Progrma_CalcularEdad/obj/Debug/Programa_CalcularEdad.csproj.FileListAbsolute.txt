@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Progrma_CalcularEdad\bin\Debug\Progrma_CalcularEdad.exe.config
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Progrma_CalcularEdad\bin\Debug\Progrma_CalcularEdad.exe
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Progrma_CalcularEdad\bin\Debug\Progrma_CalcularEdad.pdb
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Progrma_CalcularEdad\obj\Debug\Programa_CalcularEdad.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Progrma_CalcularEdad\obj\Debug\Programa_CalcularEdad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Progrma_CalcularEdad\obj\Debug\Programa_CalcularEdad.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Progrma_CalcularEdad\obj\Debug\Progrma_CalcularEdad.exe
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Progrma_CalcularEdad\obj\Debug\Progrma_CalcularEdad.pdb

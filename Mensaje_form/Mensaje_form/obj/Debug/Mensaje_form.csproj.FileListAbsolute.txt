@@ -1,0 +1,11 @@
+C:\Users\Juan3\source\repos\Mensaje_form\Mensaje_form\bin\Debug\Mensaje_form.exe.config
+C:\Users\Juan3\source\repos\Mensaje_form\Mensaje_form\bin\Debug\Mensaje_form.exe
+C:\Users\Juan3\source\repos\Mensaje_form\Mensaje_form\bin\Debug\Mensaje_form.pdb
+C:\Users\Juan3\source\repos\Mensaje_form\Mensaje_form\obj\Debug\Mensaje_form.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Mensaje_form\Mensaje_form\obj\Debug\Mensaje_form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Mensaje_form\Mensaje_form\obj\Debug\Mensaje_form.Form1.resources
+C:\Users\Juan3\source\repos\Mensaje_form\Mensaje_form\obj\Debug\Mensaje_form.Properties.Resources.resources
+C:\Users\Juan3\source\repos\Mensaje_form\Mensaje_form\obj\Debug\Mensaje_form.csproj.GenerateResource.cache
+C:\Users\Juan3\source\repos\Mensaje_form\Mensaje_form\obj\Debug\Mensaje_form.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Mensaje_form\Mensaje_form\obj\Debug\Mensaje_form.exe
+C:\Users\Juan3\source\repos\Mensaje_form\Mensaje_form\obj\Debug\Mensaje_form.pdb

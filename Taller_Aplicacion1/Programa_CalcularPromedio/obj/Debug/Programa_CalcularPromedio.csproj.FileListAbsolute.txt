@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPromedio\bin\Debug\Programa_CalcularPromedio.exe.config
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPromedio\bin\Debug\Programa_CalcularPromedio.exe
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPromedio\bin\Debug\Programa_CalcularPromedio.pdb
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPromedio\obj\Debug\Programa_CalcularPromedio.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPromedio\obj\Debug\Programa_CalcularPromedio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPromedio\obj\Debug\Programa_CalcularPromedio.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPromedio\obj\Debug\Programa_CalcularPromedio.exe
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPromedio\obj\Debug\Programa_CalcularPromedio.pdb

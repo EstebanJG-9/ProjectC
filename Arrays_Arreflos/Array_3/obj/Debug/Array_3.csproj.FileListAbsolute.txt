@@ -1,0 +1,11 @@
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_3\bin\Debug\Array_3.exe.config
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_3\bin\Debug\Array_3.exe
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_3\bin\Debug\Array_3.pdb
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_3\obj\Debug\Array_3.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_3\obj\Debug\Array_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_3\obj\Debug\Array_3.Form1.resources
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_3\obj\Debug\Array_3.Properties.Resources.resources
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_3\obj\Debug\Array_3.csproj.GenerateResource.cache
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_3\obj\Debug\Array_3.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_3\obj\Debug\Array_3.exe
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_3\obj\Debug\Array_3.pdb

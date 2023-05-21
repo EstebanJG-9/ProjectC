@@ -1,0 +1,53 @@
+﻿* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+  
+    background-color : chocolate;
+}
+
+
+h1{
+    text-align : center;
+    font-size : 30px;
+    color:white;
+}
+#menuLateral {
+    position : fixed;
+    width:200px;
+    height: 90%;
+    margin-top:52px;
+    margin-bottom:20px;
+    border:3px solid #D9E7C6;
+}
+#LogoMenu {
+    width: 130px;
+    height: 130px;
+    margin: 10px;
+    margin-top: 25px;
+    background-image: url(imagenes/foto3.ico);
+    background-image: none- repeat;
+   
+
+}
+#menuLateral li, a {
+    height: 20px;
+    voice-family: inherit;
+    height: 24px;
+    text-decoration: none;
+    color:white;
+   
+}
+
+#menuLateral li, a:after link, #menuLateral li, a:visited {
+        color: black;
+        display: block;
+        /** background:url(imagenes/);*/
+        padding: 8px 0 0 10px;
+}
+#menuLateral li, a:hover {
+        color: red;
+        padding: 8px 0 0 10px;
+    }

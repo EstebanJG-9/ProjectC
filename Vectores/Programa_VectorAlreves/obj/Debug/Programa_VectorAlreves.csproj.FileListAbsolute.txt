@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorAlreves\bin\Debug\Programa_VectorAlreves.exe.config
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorAlreves\bin\Debug\Programa_VectorAlreves.exe
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorAlreves\bin\Debug\Programa_VectorAlreves.pdb
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorAlreves\obj\Debug\Programa_VectorAlreves.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorAlreves\obj\Debug\Programa_VectorAlreves.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorAlreves\obj\Debug\Programa_VectorAlreves.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorAlreves\obj\Debug\Programa_VectorAlreves.exe
+C:\Users\Juan3\source\repos\Vectores\Programa_VectorAlreves\obj\Debug\Programa_VectorAlreves.pdb

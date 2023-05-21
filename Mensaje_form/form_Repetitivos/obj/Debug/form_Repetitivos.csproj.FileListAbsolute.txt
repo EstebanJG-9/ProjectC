@@ -1,0 +1,11 @@
+C:\Users\Juan3\source\repos\Mensaje_form\form_Repetitivos\bin\Debug\form_Repetitivos.exe.config
+C:\Users\Juan3\source\repos\Mensaje_form\form_Repetitivos\bin\Debug\form_Repetitivos.exe
+C:\Users\Juan3\source\repos\Mensaje_form\form_Repetitivos\bin\Debug\form_Repetitivos.pdb
+C:\Users\Juan3\source\repos\Mensaje_form\form_Repetitivos\obj\Debug\form_Repetitivos.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Mensaje_form\form_Repetitivos\obj\Debug\form_Repetitivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Mensaje_form\form_Repetitivos\obj\Debug\form_Repetitivos.Form1.resources
+C:\Users\Juan3\source\repos\Mensaje_form\form_Repetitivos\obj\Debug\form_Repetitivos.Properties.Resources.resources
+C:\Users\Juan3\source\repos\Mensaje_form\form_Repetitivos\obj\Debug\form_Repetitivos.csproj.GenerateResource.cache
+C:\Users\Juan3\source\repos\Mensaje_form\form_Repetitivos\obj\Debug\form_Repetitivos.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Mensaje_form\form_Repetitivos\obj\Debug\form_Repetitivos.exe
+C:\Users\Juan3\source\repos\Mensaje_form\form_Repetitivos\obj\Debug\form_Repetitivos.pdb

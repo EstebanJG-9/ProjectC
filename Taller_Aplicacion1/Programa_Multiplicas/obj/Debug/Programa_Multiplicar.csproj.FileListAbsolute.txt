@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_Multiplicas\bin\Debug\Programa_Multiplicas.exe.config
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_Multiplicas\bin\Debug\Programa_Multiplicas.exe
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_Multiplicas\bin\Debug\Programa_Multiplicas.pdb
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_Multiplicas\obj\Debug\Programa_Multiplicar.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_Multiplicas\obj\Debug\Programa_Multiplicar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_Multiplicas\obj\Debug\Programa_Multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_Multiplicas\obj\Debug\Programa_Multiplicas.exe
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_Multiplicas\obj\Debug\Programa_Multiplicas.pdb

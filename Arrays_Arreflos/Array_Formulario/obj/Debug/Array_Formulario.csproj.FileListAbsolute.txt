@@ -1,0 +1,11 @@
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_Formulario\bin\Debug\Array_Formulario.exe.config
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_Formulario\bin\Debug\Array_Formulario.exe
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_Formulario\bin\Debug\Array_Formulario.pdb
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_Formulario\obj\Debug\Array_Formulario.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_Formulario\obj\Debug\Array_Formulario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_Formulario\obj\Debug\Array_Formulario.Form1.resources
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_Formulario\obj\Debug\Array_Formulario.Properties.Resources.resources
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_Formulario\obj\Debug\Array_Formulario.csproj.GenerateResource.cache
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_Formulario\obj\Debug\Array_Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_Formulario\obj\Debug\Array_Formulario.exe
+C:\Users\Juan3\source\repos\Arrays_Arreflos\Array_Formulario\obj\Debug\Array_Formulario.pdb

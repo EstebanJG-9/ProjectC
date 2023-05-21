@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuSolicitar\bin\Debug\Programa_MenuSolicitar.exe.config
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuSolicitar\bin\Debug\Programa_MenuSolicitar.exe
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuSolicitar\bin\Debug\Programa_MenuSolicitar.pdb
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuSolicitar\obj\Debug\Programa_MenuSolicitar.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuSolicitar\obj\Debug\Programa_MenuSolicitar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuSolicitar\obj\Debug\Programa_MenuSolicitar.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuSolicitar\obj\Debug\Programa_MenuSolicitar.exe
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_MenuSolicitar\obj\Debug\Programa_MenuSolicitar.pdb

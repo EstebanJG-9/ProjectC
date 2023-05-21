@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPorcentaje\bin\Debug\Programa_CalcularPorcentaje.exe.config
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPorcentaje\bin\Debug\Programa_CalcularPorcentaje.exe
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPorcentaje\bin\Debug\Programa_CalcularPorcentaje.pdb
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPorcentaje\obj\Debug\Programa_CalcularPorcentaje.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPorcentaje\obj\Debug\Programa_CalcularPorcentaje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPorcentaje\obj\Debug\Programa_CalcularPorcentaje.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPorcentaje\obj\Debug\Programa_CalcularPorcentaje.exe
+C:\Users\Juan3\source\repos\Taller_Aplicacion1\Programa_CalcularPorcentaje\obj\Debug\Programa_CalcularPorcentaje.pdb

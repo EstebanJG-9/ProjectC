@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NpositivosNegativos\bin\Debug\Programa_NpositivosNegativos.exe.config
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NpositivosNegativos\bin\Debug\Programa_NpositivosNegativos.exe
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NpositivosNegativos\bin\Debug\Programa_NpositivosNegativos.pdb
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NpositivosNegativos\obj\Debug\Programa_NpositivosNegativos.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NpositivosNegativos\obj\Debug\Programa_NpositivosNegativos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NpositivosNegativos\obj\Debug\Programa_NpositivosNegativos.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NpositivosNegativos\obj\Debug\Programa_NpositivosNegativos.exe
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_NpositivosNegativos\obj\Debug\Programa_NpositivosNegativos.pdb

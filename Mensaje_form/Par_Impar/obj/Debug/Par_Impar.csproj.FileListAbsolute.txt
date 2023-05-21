@@ -1,0 +1,11 @@
+C:\Users\Juan3\source\repos\Mensaje_form\Par_Impar\bin\Debug\Par_Impar.exe.config
+C:\Users\Juan3\source\repos\Mensaje_form\Par_Impar\bin\Debug\Par_Impar.exe
+C:\Users\Juan3\source\repos\Mensaje_form\Par_Impar\bin\Debug\Par_Impar.pdb
+C:\Users\Juan3\source\repos\Mensaje_form\Par_Impar\obj\Debug\Par_Impar.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Mensaje_form\Par_Impar\obj\Debug\Par_Impar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Mensaje_form\Par_Impar\obj\Debug\Par_Impar.Form1.resources
+C:\Users\Juan3\source\repos\Mensaje_form\Par_Impar\obj\Debug\Par_Impar.Properties.Resources.resources
+C:\Users\Juan3\source\repos\Mensaje_form\Par_Impar\obj\Debug\Par_Impar.csproj.GenerateResource.cache
+C:\Users\Juan3\source\repos\Mensaje_form\Par_Impar\obj\Debug\Par_Impar.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Mensaje_form\Par_Impar\obj\Debug\Par_Impar.exe
+C:\Users\Juan3\source\repos\Mensaje_form\Par_Impar\obj\Debug\Par_Impar.pdb

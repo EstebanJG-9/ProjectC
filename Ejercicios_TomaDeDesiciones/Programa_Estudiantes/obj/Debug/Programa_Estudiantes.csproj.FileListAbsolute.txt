@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_Estudiantes\bin\Debug\Programa_Estudiantes.exe.config
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_Estudiantes\bin\Debug\Programa_Estudiantes.exe
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_Estudiantes\bin\Debug\Programa_Estudiantes.pdb
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_Estudiantes\obj\Debug\Programa_Estudiantes.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_Estudiantes\obj\Debug\Programa_Estudiantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_Estudiantes\obj\Debug\Programa_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_Estudiantes\obj\Debug\Programa_Estudiantes.exe
+C:\Users\Juan3\source\repos\Ejercicios_TomaDeDesiciones\Programa_Estudiantes\obj\Debug\Programa_Estudiantes.pdb

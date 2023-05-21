@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Vectores\Programa_AlmacenarNombres\bin\Debug\Programa_AlmacenarNombres.exe.config
+C:\Users\Juan3\source\repos\Vectores\Programa_AlmacenarNombres\bin\Debug\Programa_AlmacenarNombres.exe
+C:\Users\Juan3\source\repos\Vectores\Programa_AlmacenarNombres\bin\Debug\Programa_AlmacenarNombres.pdb
+C:\Users\Juan3\source\repos\Vectores\Programa_AlmacenarNombres\obj\Debug\Programa_AlmacenarNombres.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Vectores\Programa_AlmacenarNombres\obj\Debug\Programa_AlmacenarNombres.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Vectores\Programa_AlmacenarNombres\obj\Debug\Programa_AlmacenarNombres.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Vectores\Programa_AlmacenarNombres\obj\Debug\Programa_AlmacenarNombres.exe
+C:\Users\Juan3\source\repos\Vectores\Programa_AlmacenarNombres\obj\Debug\Programa_AlmacenarNombres.pdb

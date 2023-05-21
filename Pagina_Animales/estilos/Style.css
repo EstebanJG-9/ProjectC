@@ -1,0 +1,138 @@
+﻿body {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: rgb(5, 5, 5);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    display: flex;
+    background-color: #cf842f;
+    height: 90px;
+    /** justify-content: space-between;*/
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+    .logo img {
+        height: 10vh;
+        padding: 250px;
+    }
+
+nav a {
+    margin-right: 20px;
+}
+
+
+
+
+.contenedor-img {
+    height: 350px;
+    padding-top: px;
+    /*  border:10px solid cornflowerblue;*/
+    margin-top: 0px;
+    /*cambiar */
+}
+
+img {
+    width: 100%;
+    height: 350px;
+}
+
+
+section {
+    display: flex;
+    /*me  permite mover el contenedor a mi antojo */
+    justify-content: center;
+    /*centra el div */
+}
+
+.contenedor-principal {
+    width: 70%;
+    height: 280px;
+    margin-top: 20px;
+    display: flex;
+    /*separar el div del otro div**/
+}
+
+
+
+section p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 18px;
+    width: 600px;
+}
+
+section img {
+    width: 580px;
+    height: 280px;
+    display: flex;
+    /**display: block;
+    margin: auto;**/
+    border-radius: 50%;
+}
+
+
+
+.contenedor-mitos {
+    width: 70%;
+    height: 280px;
+    display: flex;
+    border-inline: #1d1c1c 15px;
+    border-inline-color: 15px #1d1c1c;
+    /*separar el div del otro div**/
+}
+
+.contenedor-mitos-ratones {
+    /**border: 10px solid #1d1c1c;**/
+    width: 70%;
+    height: 280px;
+    display: flex;
+    /*separar el div del otro div**/
+}
+
+.contenedor-mitos-peces {
+    /**border: 10px solid #1d1c1c;**/
+    width: 70%;
+    height: 280px;
+    display: flex;
+}
+
+.contenedor-mitos-animales {
+    /** border: 10px solid #1d1c1c;**/
+    width: 70%;
+    height: 280px;
+    display: flex;
+}
+
+
+
+
+
+section h2 {
+    margin-right: 83vh;
+    color: rgb(0, 0, 0);
+    margin-top: 20px;
+    /** border: 10px solid #1d1c1c;**/
+}
+
+footer {
+    height: 150px;
+    background-color: black;
+    color: #ded9d2;
+    text-align: center;
+    padding: 14px;
+    margin-top: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

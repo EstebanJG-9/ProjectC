@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuPares\bin\Debug\Programa_MenuPares.exe.config
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuPares\bin\Debug\Programa_MenuPares.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuPares\bin\Debug\Programa_MenuPares.pdb
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuPares\obj\Debug\Programa_MenuPares.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuPares\obj\Debug\Programa_MenuPares.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuPares\obj\Debug\Programa_MenuPares.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuPares\obj\Debug\Programa_MenuPares.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoDo\Programa_MenuPares\obj\Debug\Programa_MenuPares.pdb

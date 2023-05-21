@@ -1,0 +1,11 @@
+C:\Users\Juan3\source\repos\Mensaje_form\IniciarSesion\bin\Debug\IniciarSesion.exe.config
+C:\Users\Juan3\source\repos\Mensaje_form\IniciarSesion\bin\Debug\IniciarSesion.exe
+C:\Users\Juan3\source\repos\Mensaje_form\IniciarSesion\bin\Debug\IniciarSesion.pdb
+C:\Users\Juan3\source\repos\Mensaje_form\IniciarSesion\obj\Debug\IniciarSesion.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Mensaje_form\IniciarSesion\obj\Debug\IniciarSesion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Mensaje_form\IniciarSesion\obj\Debug\IniciarSesion.Form1.resources
+C:\Users\Juan3\source\repos\Mensaje_form\IniciarSesion\obj\Debug\IniciarSesion.Properties.Resources.resources
+C:\Users\Juan3\source\repos\Mensaje_form\IniciarSesion\obj\Debug\IniciarSesion.csproj.GenerateResource.cache
+C:\Users\Juan3\source\repos\Mensaje_form\IniciarSesion\obj\Debug\IniciarSesion.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Mensaje_form\IniciarSesion\obj\Debug\IniciarSesion.exe
+C:\Users\Juan3\source\repos\Mensaje_form\IniciarSesion\obj\Debug\IniciarSesion.pdb

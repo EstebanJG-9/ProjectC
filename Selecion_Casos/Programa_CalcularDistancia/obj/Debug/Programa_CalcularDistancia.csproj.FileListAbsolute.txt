@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_CalcularDistancia\bin\Debug\Programa_CalcularDistancia.exe.config
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_CalcularDistancia\bin\Debug\Programa_CalcularDistancia.exe
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_CalcularDistancia\bin\Debug\Programa_CalcularDistancia.pdb
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_CalcularDistancia\obj\Debug\Programa_CalcularDistancia.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_CalcularDistancia\obj\Debug\Programa_CalcularDistancia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_CalcularDistancia\obj\Debug\Programa_CalcularDistancia.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_CalcularDistancia\obj\Debug\Programa_CalcularDistancia.exe
+C:\Users\Juan3\source\repos\Selecion_Casos\Programa_CalcularDistancia\obj\Debug\Programa_CalcularDistancia.pdb

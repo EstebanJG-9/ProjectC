@@ -1,0 +1,8 @@
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_NumerosImpares\bin\Debug\Programa_NumerosImpares.exe.config
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_NumerosImpares\bin\Debug\Programa_NumerosImpares.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_NumerosImpares\bin\Debug\Programa_NumerosImpares.pdb
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_NumerosImpares\obj\Debug\Programa_NumerosImpares.csproj.AssemblyReference.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_NumerosImpares\obj\Debug\Programa_NumerosImpares.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_NumerosImpares\obj\Debug\Programa_NumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_NumerosImpares\obj\Debug\Programa_NumerosImpares.exe
+C:\Users\Juan3\source\repos\Ciclo_RepetitivoFor\Programa_NumerosImpares\obj\Debug\Programa_NumerosImpares.pdb
